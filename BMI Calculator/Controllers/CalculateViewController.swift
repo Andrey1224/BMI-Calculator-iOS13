@@ -54,7 +54,7 @@ class CalculateViewController: UIViewController {
        
         calculatorBrain.calculateBMI(height: height, weight: weight)
         
-        self.performSegue(withIdentifier: "goToResults", sender: self)
+        self.performSegue(withIdentifier: "goToResult", sender: self)
         
         
     }

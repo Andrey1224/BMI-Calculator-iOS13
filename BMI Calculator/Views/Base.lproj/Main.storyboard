@@ -131,7 +131,7 @@
                         <outlet property="heightSlider" destination="Pky-qY-oVp" id="SfQ-Jh-JEN"/>
                         <outlet property="weightLabel" destination="LTF-aL-8qu" id="g1Z-q2-JGX"/>
                         <outlet property="weightSlider" destination="s2X-C5-Zcz" id="m4Q-gZ-5zW"/>
-                        <segue destination="lkq-xS-Cin" kind="presentation" identifier="goToResults" id="mFn-cT-AAu"/>
+                        <segue destination="lkq-xS-Cin" kind="presentation" identifier="goToResult" id="mFn-cT-AAu"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
